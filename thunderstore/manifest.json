@@ -1,0 +1,10 @@
+{
+  "name": "ShotgunAmmoBox",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/Andrew1431/shotgun-ammo-box",
+  "description": "An ammo box for shotgun shells (holds 20) that your shotgun reloads from, plus shotgun shells in the store. Prices and capacity are configurable.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Evaisa-LethalLib-1.2.0"
+  ]
+}
